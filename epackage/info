@@ -1,7 +1,7 @@
 Package: zoom-frm
 Section: extensions
 License: GPL-2+
-Depends: emacs (>= 20)
+Depends: emacs (>= 20), frame-cmds, frame-fns
 Status: stable
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
