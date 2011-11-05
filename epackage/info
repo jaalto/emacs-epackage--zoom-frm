@@ -1,0 +1,26 @@
+Package: zoom-frm
+Section: extensions
+License: GPL-2+
+Depends: emacs (>= 20)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Drew Adams
+Upstream-Bugs:
+Vcs-Type: http
+Vcs-Url: http://www.emacswiki.org/emacs/download/frame-cmds.el
+Vcs-Args:
+Vcs-Browser:
+Vcs-User:
+Vcs-Password:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/SetFonts
+Commentary:
+Description: commands to zoom frame font size
+ Interactive user commands to chnage font size:
+ toggle-zoom-frame, zoom-frm-in, zoom-frm-out,
+ zoom-frm-unzoom, zoom-in and zoom-out.
+ .
+ Note: this package is obsolete in Emacs 23. It includes command
+ C-x C-+ to adjust font size in addition to menu C-mouse-1.
