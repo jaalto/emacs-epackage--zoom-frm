@@ -1,0 +1,5 @@
+(autoload 'zoom-frm-in                          "zoom-frm" "" t)
+(autoload 'zoom-frm-out                         "zoom-frm" "" t)
+(autoload 'zoom-frm-unzoom                      "zoom-frm" "" t)
+(autoload 'toggle-zoom-frame                    "zoom-frm" "" t)
+(provide 'zoom-frm-epkg-install)
