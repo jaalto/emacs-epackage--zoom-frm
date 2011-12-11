@@ -1,12 +1,12 @@
 Package: zoom-frm
 Section: extensions
 License: GPL-2+
-Depends: emacs (>= 20), frame-cmds, frame-fns
+Depends: emacs (>= 21), lib-frame-fns, frame-cmds
 Status: stable
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
-Upstream: Drew Adams
+Upstream: Drew Adams <drew.adams@oracle.com>
 Upstream-Bugs:
 Vcs-Type: http
 Vcs-Url: http://www.emacswiki.org/emacs/download/frame-cmds.el
