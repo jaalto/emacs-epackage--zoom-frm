@@ -17,7 +17,7 @@ Vcs-Password:
 Homepage:
 Wiki: http://www.emacswiki.org/emacs/SetFonts
 Commentary:
-Description: commands to zoom frame font size
+Description: commands to zoom frame font size (obsolete in 23.x)
  Interactive user commands to chnage font size:
  toggle-zoom-frame, zoom-frm-in, zoom-frm-out,
  zoom-frm-unzoom, zoom-in and zoom-out.
